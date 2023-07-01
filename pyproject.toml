@@ -27,7 +27,7 @@ exclude = '''
 
 [tool.poetry]
 name = "wineml"
-version = "0.0.1"
+version = "0.0.0"
 description = "Python library for WineML Registry"
 authors = ["Melvin Low <lowbingjiun@gmail.com>"]
 readme = "README.md"
