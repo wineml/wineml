@@ -1,0 +1,11 @@
+# python related
+__pycache__/
+.venv/
+*.ipynb
+
+# environment file
+.env
+
+# build
+dist/
+.pytest_cache/
